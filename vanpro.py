@@ -1,0 +1,1 @@
+print("myetext","hi bitch")
